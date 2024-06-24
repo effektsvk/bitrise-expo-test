@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "xyz.effektsvk.bitrise-expo-test"
     },
     "android": {
       "adaptiveIcon": {
